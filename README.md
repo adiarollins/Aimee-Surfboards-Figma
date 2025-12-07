@@ -8,5 +8,5 @@ This document provides a summary ...
 
 Here's a video that demos all of the app's implemented features:
 
-<img src='https://i.imgur.com/OOeaYjX.gif' title='Video Demo' width='' alt='Video Demo' />
+<img src="https://i.imgur.com/OOeaYjX.gif" width="300" />
 
