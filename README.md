@@ -8,5 +8,5 @@ This document provides a summary ...
 
 Here's a video that demos all of the app's implemented features:
 
-![Demo GIF](https://raw.githubusercontent.com/adiarollins/Aimee-Surfboards-Figma/main/demo.gif)
+![Demo GIF](https://raw.githubusercontent.com/adiarollins/Aimee-Surfboards-Figma/main/demovid.gif)
 
